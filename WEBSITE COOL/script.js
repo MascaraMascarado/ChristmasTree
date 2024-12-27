@@ -34,7 +34,6 @@ function celeb(){
         }
     }
 }
-//add a counter of how many PS5s the user claimed
 pbut1.onclick=function(){ 
 
     const seta=document.getElementById("seta");
@@ -43,16 +42,3 @@ pbut1.onclick=function(){
     flag=true;
 
 } 
-
-
-
-
-
-  
-
-
-
-    
-
-
-
